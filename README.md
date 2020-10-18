@@ -23,9 +23,9 @@ indicating the data may have been faked.
 
 Data Included
 
-ERD screenshot
-Schemata sql
-Query sql
-Screenshots of each query result
-Bonus Jupyter Notebook
+ERD screenshot,
+Schemata sql,
+Query sql,
+Screenshots of each query result,
+Bonus Jupyter Notebook,
 Screenshot of the Histogram
