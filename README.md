@@ -20,3 +20,12 @@ for the bonus in pandas, note that the username and password were removed from t
 
 The histogram shows a very assymmetrical distribution, one would expect something much closer to a normal distribution, 
 indicating the data may have been faked.
+
+Data Included:
+
+ERD screenshot
+Schemata sql
+Query sql
+Screenshots of each query result
+Bonus Jupyter Notebook
+Screenshot of the Histogram
